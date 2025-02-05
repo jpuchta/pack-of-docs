@@ -1,0 +1,21 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/jpuchta/pack-of-docs-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/jpuchta/pack-of-docs-frontend.git
+[submodule "common"]
+	path = common
+	url = https://github.com/jpuchta/pack-of-docs-common.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/jpuchta/pack-of-docs-infra.git
+[submodule "worker"]
+	path = worker
+	url = https://github.com/jpuchta/pack-of-docs-worker.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/jpuchta/pack-of-docs-docs.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/jpuchta/pack-of-docs-mobile.git
